@@ -38,5 +38,7 @@ A company wanted to launch a new product and was interested in targeting some se
 
 
 # :octocat:Dashboard
-![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Product-Analysis/assets/39690914/4d0597af-01a4-410b-984b-92c1649d82c4)
+
+![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Product-Analysis/assets/39690914/bded9acd-cc30-4857-ba6c-b796980cd247)
+
 
