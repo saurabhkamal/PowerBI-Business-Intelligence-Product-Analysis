@@ -37,3 +37,6 @@ A company wanted to launch a new product and was interested in targeting some se
 6. Total Units sold in the United States (154.09K) is more than any other country combined (120.69)
 
 
+# :octocat:Dashboard
+![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Product-Analysis/assets/39690914/4d0597af-01a4-410b-984b-92c1649d82c4)
+
