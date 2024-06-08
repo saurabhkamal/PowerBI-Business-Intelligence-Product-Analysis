@@ -23,16 +23,16 @@ A company wanted to launch a new product and was interested in targeting some se
 -	The highest number of products that customers tend to purchase are accessories (47,148) in comparison to bikes, clothing, and components (28,321). The reason could be bikes are not purchased frequently, but many times accessories are often required for bikes.
 
 5. Name of the Top 10 sold Products:
-  1.	AWC Logo Cap
-  2.	Sports-100 Helmet, Blue
-  3.	Long-sleeve Logo Jersey, L
-  4.	Water Bottle – 30 oz.
-  5.	Sports-100 Helmet Back
-  6.	Sports-100 Helmet Red
-  7.	Short-Sleeve Classic Jersey, XL
-  8.	Patch Kit/8 Patches
-  9.	Long-Sleeve Logo Jersey, M
-  10.	Classic Vest, S
+- AWC Logo Cap
+- Sports-100 Helmet, Blue
+- Long-sleeve Logo Jersey, L
+- Water Bottle – 30 oz.
+- Sports-100 Helmet Back
+- Sports-100 Helmet Red
+- Short-Sleeve Classic Jersey, XL
+- Patch Kit/8 Patches
+- Long-Sleeve Logo Jersey, M
+- Classic Vest, S
 
 6. Total Units sold in the United States (154.09K) is more than any other country combined (120.69)
 
