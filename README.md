@@ -1,4 +1,4 @@
-# PowerBI-Product-Analysis
+# Business Intelligence Product Analysis
 
 A company wanted to launch a new product and was interested in targeting some segmented customers and regions. An important part of the job was to infer some important insights.
 
